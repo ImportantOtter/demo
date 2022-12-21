@@ -32,6 +32,7 @@ localhost:8080/product/exampleFile
 
 ![Alt text](src/main/resources/static/2.png?raw=true "Optional Title")
 
+![Alt text](src/main/resources/static/4.png?raw=true "Optional Title")
 
 
 * Получение чека в браузере в HTML виде
